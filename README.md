@@ -1,5 +1,5 @@
 # 👋 Hi, my name is **Yevhenii Kysil**!
-## I'm a begginer *Front-end developer* from Rzeszów.
+## I'm a beginner *Front-end developer* from Rzeszów.
 ### Languages and Tecnologies
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
