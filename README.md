@@ -9,6 +9,6 @@
 ![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-090909?style=for-the-badge&logo=bootstrap)
 ![GIT](https://img.shields.io/badge/-GIT-090909?style=for-the-badge&logo=git)
 ![GULP](https://img.shields.io/badge/-GULP-090909?style=for-the-badge&logo=gulp)
-### ✉️ Mail me: kysil_jenia@ukr.net
+### ✉️ Mail me: yevhenii.kysil@gmail.com
 ### 🌐 Telegram @BlackSkiMask
 ### 📷 Instagram @jenia.kysil
